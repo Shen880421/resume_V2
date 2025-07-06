@@ -1,5 +1,7 @@
 <template>
-    <h1 class="flex justify-center text-4xl font-bold my-8">Information</h1>
+    <h1 class="flex justify-center text-4xl font-bold mt-30 mb-12">
+        Information
+    </h1>
     <section class="flex flex-col gap-1">
         <h2 class="flex flex-row justify-center font-bold mt-2">Name</h2>
         <p class="flex flex-row justify-center text-amber-900">陳明賢 Shen</p>

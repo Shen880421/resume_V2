@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gradient-to-t from-stone-500 via-stone-100 to-stone-50">
+    <div class="bg-gradient-to-t from-stone-400 via-stone-100 to-stone-50">
         <h1
             class="bitcount-grid-double-font tracking-wide text-center h-screen content-center max-md:text-2xl min-md:text-6xl shadow-xl/30 bg-cyan-100"
         >
@@ -10,6 +10,7 @@
             <BasicInfo />
             <Skill />
             <WorkExperience />
+            <Portfolio />
         </main>
     </div>
 </template>
@@ -17,5 +18,6 @@
 import BasicInfo from "./BasicInfo.vue";
 import Skill from "./Skill.vue";
 import WorkExperience from "./WorkExperience.vue";
+import Portfolio from "./Portfolio.vue";
 </script>
 <style scoped></style>

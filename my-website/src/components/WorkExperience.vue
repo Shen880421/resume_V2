@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-2xl mx-auto p-6">
+    <div class="max-w-2xl mx-auto p-6 my-36 text-amber-950">
         <h1 class="text-4xl font-bold text-center mb-8">Work Experience</h1>
 
         <div class="relative border-l-2 border-gray-200 ml-3">
@@ -8,7 +8,7 @@
                     class="absolute flex items-center justify-center w-2 h-2 bg-stone-500 rounded-full -left-1 ring-2 ring-white"
                 >
                 </span>
-                <h3 class="text-lg font-semibold text-gray-900">
+                <h3 class="text-lg font-semibold">
                     基隆市警察局第二分局八斗子分駐所
                 </h3>
                 <time class="block mb-2 text-sm text-gray-500"
@@ -22,9 +22,7 @@
                     class="absolute flex items-center justify-center w-2 h-2 bg-stone-500 rounded-full -left-1 ring-2 ring-white"
                 >
                 </span>
-                <h3 class="text-lg font-semibold text-gray-900">
-                    加入全端工程師養成班
-                </h3>
+                <h3 class="text-lg font-semibold">加入全端工程師養成班</h3>
                 <time class="block mb-2 text-sm text-gray-500"
                     >2025年4月 - 2025年8月</time
                 >

@@ -1,7 +1,7 @@
 <template>
-    <h1 class="flex justify-center text-4xl font-bold my-8">Skill</h1>
+    <h1 class="flex justify-center text-4xl font-bold mt-36 mb-12">Skill</h1>
     <section
-        class="grid max-sm:grid-cols-2 sm:grid-cols-5 lg:grid-cols-8 gap-4 h-full mx-10"
+        class="grid max-sm:grid-cols-2 sm:grid-cols-5 lg:grid-cols-8 gap-4 h-full m-10"
     >
         <div class="flex justify-center">
             <p class="text-amber-950">HTML</p>
