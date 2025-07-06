@@ -1,15 +1,21 @@
 <template>
-    <h1
-        class="bitcount-grid-double-font tracking-wide text-center h-screen content-center text-6xl shadow-xl/30 bg-cyan-100"
-    >
-        Hello! <br />My name is
-        <span class="text-8xl text-amber-600">Shen</span>.
-    </h1>
-    <main>
-        <BasicInfo />
-    </main>
+    <div class="bg-gradient-to-t from-stone-500 via-stone-100 to-stone-50">
+        <h1
+            class="bitcount-grid-double-font tracking-wide text-center h-screen content-center max-md:text-2xl min-md:text-6xl shadow-xl/30 bg-cyan-100"
+        >
+            Hello! <br />My name is
+            <span class="text-8xl text-amber-600">Shen</span>.
+        </h1>
+        <main class="h-full">
+            <BasicInfo />
+            <Skill />
+            <WorkExperience />
+        </main>
+    </div>
 </template>
 <script setup>
 import BasicInfo from "./BasicInfo.vue";
+import Skill from "./Skill.vue";
+import WorkExperience from "./WorkExperience.vue";
 </script>
 <style scoped></style>

@@ -45,13 +45,23 @@
             </div>
         </div>
         <footer class="absolute inset-x-0 bottom-0 m-3 h-24 text-wrap">
-            <h5 class="italic text-sm justify-self-center">Contact Me</h5>
-            <p class="italic text-xs">Email:</p>
-            <p class="italic text-xs break-all indent-2">
+            <h5
+                class="italic max-sm:text-[10px] min-md:text-sm justify-self-center"
+            >
+                Contact Me
+            </h5>
+            <p class="italic max-sm:text-[8px] min-md:text-xs">Email:</p>
+            <p
+                class="italic max-sm:text-[8px] min-md:text-xs break-all indent-2"
+            >
                 solove5171@gmail.com
             </p>
-            <p class="italic text-xs">Phone:</p>
-            <p class="italic text-xs break-all indent-2">0963-616-228</p>
+            <p class="italic max-sm:text-[8px] min-md:text-xs">Phone:</p>
+            <p
+                class="italic max-sm:text-[8px] min-md:text-xs break-all indent-2"
+            >
+                0963-616-228
+            </p>
         </footer>
     </div>
 </template>
