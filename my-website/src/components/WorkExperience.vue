@@ -2,7 +2,7 @@
     <div class="max-w-2xl mx-auto p-6 my-36 text-amber-950">
         <h1 class="text-4xl font-bold text-center mb-8">Work Experience</h1>
 
-        <div class="relative border-l-2 border-gray-200 ml-3">
+        <div class="relative border-l-2 border-gray-400 ml-3">
             <div class="mb-8 ml-6">
                 <span
                     class="absolute flex items-center justify-center w-2 h-2 bg-stone-500 rounded-full -left-1 ring-2 ring-white"

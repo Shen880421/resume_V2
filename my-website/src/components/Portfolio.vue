@@ -9,7 +9,7 @@
                 class=""
             >
                 <img class="" src="" alt="attendance_website" />
-                <p class="text-amber-950 bg-stone-50">出缺勤平台</p>
+                <p class="text-amber-950 bg-indigo-100">出缺勤平台</p>
             </a>
         </div>
         <div class="flex justify-center">
@@ -18,7 +18,7 @@
                 class=""
             >
                 <img class="" src="" alt="tutor-matching-platform" />
-                <p class="text-amber-950 bg-stone-50">家教媒合平台</p>
+                <p class="text-amber-950 bg-indigo-100">家教媒合平台</p>
             </a>
         </div>
     </section>
