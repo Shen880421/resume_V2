@@ -1,6 +1,7 @@
 #  My Personal Website with Tailwind CSS   -for learning Tailwind by myself
 
 這是一個用來學習和練習 [Vue 3](https://vuejs.org/) 和[Tailwind CSS](https://tailwindcss.com/) 的個人網站專案。嘗試透過閱讀官方文件，從零開始學習Tailwind並搭配剛接觸的Vue.js，並撰寫個人網站V2
+架設於Pass服務:https://resume-v2-red.vercel.app/
 
 ## 🔧 技術使用
 
