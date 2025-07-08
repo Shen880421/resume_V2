@@ -9,7 +9,6 @@
 - [Vue 3](https://vuejs.org/) — 漸進式 JavaScript 框架
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [Vite](https://vitejs.dev/) — 作為開發伺服器與構建工具
-- [PostCSS](https://postcss.org/) — 處理 Tailwind 所需
 
 ## 📁 專案結構
 
