@@ -11,6 +11,7 @@
             <Skill />
             <WorkExperience />
             <Portfolio />
+            <Intro />
             <Footerdiv />
         </main>
     </div>
@@ -21,5 +22,6 @@ import Skill from "./Skill.vue";
 import WorkExperience from "./WorkExperience.vue";
 import Portfolio from "./Portfolio.vue";
 import Footerdiv from "./Footerdiv.vue";
+import Intro from "./Intro.vue";
 </script>
 <style scoped></style>
