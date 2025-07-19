@@ -8,7 +8,21 @@
                 href="https://github.com/Shen880421/attendance_website.git"
                 class=""
             >
-                <img class="" src="" alt="attendance_website" />
+                <img
+                    class=""
+                    src="../assets/wannabakerylogo.jpg"
+                    alt="attendance_website"
+                />
+                <p class="text-amber-950 bg-indigo-100">Wannabakery</p>
+            </a>
+        </div>
+        <div class="flex justify-center">
+            <a href="http://attendfs101.ddns.net/" class="">
+                <img
+                    class=""
+                    src="../assets/dashboardimg.png"
+                    alt="attendance_website"
+                />
                 <p class="text-amber-950 bg-indigo-100">出缺勤平台</p>
             </a>
         </div>
