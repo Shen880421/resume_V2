@@ -26,7 +26,7 @@
         </p>
 
         <h2 class="flex flex-row justify-center font-bold text-2xl mt-2">
-            Educational background
+            Education
         </h2>
         <p class="flex flex-row justify-center text-amber-900">國立空中大學</p>
         <p class="flex flex-row justify-center text-amber-900">
