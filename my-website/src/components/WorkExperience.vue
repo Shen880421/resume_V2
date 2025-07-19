@@ -31,7 +31,9 @@
                     class="absolute flex items-center justify-center w-2 h-2 bg-stone-500 rounded-full -left-1 ring-2 ring-white"
                 >
                 </span>
-                <h3 class="text-lg font-semibold">加入全端工程師養成班</h3>
+                <h3 class="text-lg font-semibold">
+                    加入文大推廣 x 程式驅動 全端設計工程師養成班
+                </h3>
                 <time class="block mb-2 text-sm text-gray-500"
                     >2025年4月 - 2025年8月</time
                 >
