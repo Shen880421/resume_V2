@@ -4,10 +4,7 @@
     </h1>
     <section class="grid max-sm:grid-cols-1 sm:grid-cols-3 gap-20 h-full m-20">
         <div class="flex justify-center">
-            <a
-                href="https://github.com/Shen880421/attendance_website.git"
-                class=""
-            >
+            <a href="https://wannabakery.vercel.app/" class="">
                 <img
                     class=""
                     src="../assets/wannabakerylogo.jpg"
