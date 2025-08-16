@@ -4,13 +4,15 @@
     </h1>
     <section class="grid max-sm:grid-cols-1 sm:grid-cols-3 gap-20 h-full m-20">
         <div class="flex justify-center">
-            <a href="https://wannabakery.vercel.app/" class="">
+            <a href="https://redux-toolkits-five.vercel.app/" class="">
                 <img
                     class=""
                     src="../assets/wannabakerylogo.jpg"
-                    alt="attendance_website"
+                    alt="redux_toolkit_website"
                 />
-                <p class="text-amber-950 bg-indigo-100">Wannabakery</p>
+                <p class="text-amber-950 bg-indigo-100">
+                    Wannabakery-Redux Toolkit
+                </p>
             </a>
         </div>
         <div class="flex justify-center">
@@ -28,8 +30,18 @@
                 href="https://github.com/TobyWuNumOne/tutor-matching-platform.git"
                 class=""
             >
-                <img class="" src="" alt="tutor-matching-platform" />
+                <img
+                    class=""
+                    src="../assets/tutorLogo.png"
+                    alt="tutor-matching-platform"
+                />
                 <p class="text-amber-950 bg-indigo-100">家教媒合平台</p>
+            </a>
+        </div>
+        <div class="flex justify-center">
+            <a href="https://github.com/Shen880421/attendence_system" class="">
+                <img class="" src="" alt="Spring boot" />
+                <p class="text-amber-950 bg-indigo-100">Spring boot 打卡系統</p>
             </a>
         </div>
     </section>
