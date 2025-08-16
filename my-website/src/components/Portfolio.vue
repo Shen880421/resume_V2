@@ -48,6 +48,16 @@
                 <p class="text-amber-950 bg-indigo-100">Spring boot 打卡系統</p>
             </a>
         </div>
+        <div class="flex justify-center">
+            <a href="" class="">
+                <img
+                    class=""
+                    src="../assets/braintimeLogo.png"
+                    alt="腦動時光 BrainTime"
+                />
+                <p class="text-amber-950 bg-indigo-100">腦動時光 BrainTime</p>
+            </a>
+        </div>
     </section>
 </template>
 <script setup></script>
