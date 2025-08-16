@@ -40,7 +40,11 @@
         </div>
         <div class="flex justify-center">
             <a href="https://github.com/Shen880421/attendence_system" class="">
-                <img class="" src="" alt="Spring boot" />
+                <img
+                    class=""
+                    src="../assets/checkinoutLogo.png"
+                    alt="Spring boot"
+                />
                 <p class="text-amber-950 bg-indigo-100">Spring boot 打卡系統</p>
             </a>
         </div>
