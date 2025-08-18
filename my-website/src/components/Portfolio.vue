@@ -44,7 +44,7 @@
       <a href="" class="">
         <img
           class=""
-          src="../assets/BrainTimeLogo.png"
+          src="../assets/braintimeLogo.png"
           alt="腦動時光 BrainTime"
         />
         <p class="text-amber-950 bg-indigo-100">腦動時光 BrainTime</p>
