@@ -41,7 +41,7 @@
       </a>
     </div>
     <div class="flex justify-center">
-      <a href="" class="">
+      <a href="https://bt.pair.tw/" class="">
         <img
           class=""
           src="../assets/braintimeLogo.png"
