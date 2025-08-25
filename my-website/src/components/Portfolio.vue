@@ -19,6 +19,12 @@
           alt="attendance_website"
         />
         <p class="text-amber-950 bg-indigo-100">出缺勤平台</p>
+        <p class="text-amber-950 bg-indigo-100">
+          管理端測試帳號:admin@demo.com/test1234
+        </p>
+        <p class="text-amber-950 bg-indigo-100">
+          企業端測試帳號:adv-user@test.com/test1234
+        </p>
       </a>
     </div>
     <div class="flex justify-center">
@@ -32,12 +38,6 @@
           alt="tutor-matching-platform"
         />
         <p class="text-amber-950 bg-indigo-100">家教媒合平台</p>
-        <p class="text-amber-950 bg-indigo-100">
-          管理端測試帳號:admin@demo.com/test1234
-        </p>
-        <p class="text-amber-950 bg-indigo-100">
-          企業端測試帳號:adv-user@test.com/test1234
-        </p>
       </a>
     </div>
     <div class="flex justify-center">
