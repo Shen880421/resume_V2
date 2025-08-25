@@ -48,6 +48,9 @@
           alt="腦動時光 BrainTime"
         />
         <p class="text-amber-950 bg-indigo-100">腦動時光 BrainTime</p>
+        <p class="text-amber-950 bg-indigo-100">測試醫院:臺大醫院</p>
+        <p class="text-amber-950 bg-indigo-100">測試醫生:doctortest/password</p>
+        <p class="text-amber-950 bg-indigo-100">測試病人:A153340409/password</p>
       </a>
     </div>
   </section>
