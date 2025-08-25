@@ -8,7 +8,7 @@
         <article class="mb-10">
             <h3 class="flex flex-row font-bold text-lg mt-2">【前言】</h3>
             <p class="mt-5">
-                &nbsp;&nbsp;&nbsp;&nbsp;【前言】
+                &nbsp;&nbsp;&nbsp;&nbsp;
                 我曾在基隆市警察局第二分局八斗子分駐所任職六年，這段經歷讓我累積了高壓決策、溝通協調與問題解決的實戰能力。儘管當初選擇從警是出於家人期待，但這份工作與我的個性與興趣並不相符。在長時間的思考與探索後，我決定誠實面對自己的熱情與志向，加上因緣際會下接觸到了程式撰寫，因而決定轉職為全端工程師。
             </p>
             <h3 class="flex flex-row font-bold text-lg mt-2">
