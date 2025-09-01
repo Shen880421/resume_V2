@@ -94,7 +94,7 @@
             <p
                 class="text-amber-950 text-center max-sm:text-xs sm:text-sm font-medium break-words leading-tight"
             >
-                Linux(Centos/Ubuntu)
+                Linux(Ubuntu)
             </p>
         </div>
     </section>
