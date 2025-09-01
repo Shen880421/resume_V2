@@ -4,16 +4,10 @@
         class="grid max-sm:grid-cols-1 sm:grid-cols-5 lg:grid-cols-8 gap-4 h-full m-10 bg-stone-50 p-10 rounded-4xl"
     >
         <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">Bootstrap</p>
+            <p class="text-amber-950">Tailwind/Bootstrap</p>
         </div>
         <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">Tailwind</p>
-        </div>
-        <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">Vue.js</p>
-        </div>
-        <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">React.js</p>
+            <p class="text-amber-950">React.js/Vue.js</p>
         </div>
         <div class="flex justify-center bg-indigo-100 shadow-lg">
             <p class="text-amber-950">JavaScript</p>
@@ -22,13 +16,7 @@
             <p class="text-amber-950">MySQL</p>
         </div>
         <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">Python</p>
-        </div>
-        <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">Django</p>
-        </div>
-        <div class="flex justify-center bg-indigo-100 shadow-lg">
-            <p class="text-amber-950">Flask</p>
+            <p class="text-amber-950">Python/Django/Flask</p>
         </div>
         <div class="flex justify-center bg-indigo-100 shadow-lg">
             <p class="text-amber-950">PHP</p>
