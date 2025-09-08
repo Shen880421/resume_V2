@@ -21,25 +21,28 @@
                 解決問題的能力:
             </h3>
             <p class="flex flex-row justify-center text-amber-900">
-                處理突發狀況的經驗，培養了我 debug 與排解錯誤的敏銳度。
+                處理突發狀況的經驗，培養了我 debug
+                與排解錯誤的敏銳度。面對衝突時，能查看Debug
+                log一一排解，了解問題核心，並加以排除。
             </p>
             <h3 class="flex flex-row justify-center font-bold text-lg mt-2">
                 溝通與團隊合作:
             </h3>
             <p class="flex flex-row justify-center text-amber-900">
-                與民眾、同仁及其他單位密切配合，使我能在開發專案中，清楚理解需求、跨部門協作。
+                與民眾、同仁及其他單位密切配合，使我能在開發專案中，清楚理解需求、跨部門協作。如我在團隊專案中密切與PM溝通，確認功能細節以及需求，並與協作工程師溝通、分配工作內容，避免衝突。
             </p>
             <h3 class="flex flex-row justify-center font-bold text-lg mt-2">
                 細心與紀律:
             </h3>
             <p class="flex flex-row justify-center text-amber-900">
-                處理公文與調查資料時養成的精準習慣，有助於撰寫穩定且維護性高的程式碼。
+                處理公文與調查資料時養成的精準習慣，有助於撰寫穩定且維護性高的程式碼。如在團體協作中，使用團體規範之Conventional
+                Commit message，使團隊能更精準地維護或修復程式碼。
             </p>
             <h3 class="flex flex-row justify-center font-bold text-lg mt-2">
                 壓力管理與責任感:
             </h3>
             <p class="flex flex-row justify-center text-amber-900">
-                面對高風險任務的歷練，轉化為對專案開發的投入與穩定執行力。
+                面對高風險任務的歷練，轉化為對專案開發的投入與穩定執行力。在為期兩周之高壓專案開發中，適當地分配時間完成負責之任務，達成專案目標。
             </p>
             <h3 class="flex flex-row font-bold text-lg mt-2">【轉職動機】</h3>
             <p class="mb-10 mt-5">
