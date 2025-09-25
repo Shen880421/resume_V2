@@ -58,15 +58,6 @@
             <p
                 class="text-amber-950 text-center max-sm:text-xs sm:text-sm font-medium break-words leading-tight"
             >
-                PHP
-            </p>
-        </div>
-        <div
-            class="flex items-center justify-center bg-indigo-100 shadow-lg rounded-lg max-sm:p-2 sm:p-3 min-h-[50px] max-sm:min-h-[40px] hover:bg-indigo-200 transition-colors duration-200"
-        >
-            <p
-                class="text-amber-950 text-center max-sm:text-xs sm:text-sm font-medium break-words leading-tight"
-            >
                 Git
             </p>
         </div>
